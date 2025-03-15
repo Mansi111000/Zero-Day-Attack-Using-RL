@@ -104,10 +104,10 @@ The model consists of three key components:
 📌 **False Positive Rate:** *X.XX%*  
 📌 **Performance Gain over Baseline:** *X.XX%*  
 
-### 🔍 Confusion Matrix  
+### 🔍 Distribution Analysis 
 ![Confusion Matrix](s2.png)  
 
-### 🔍 ROC Curve  
+### 🔍 3D Model   
 ![ROC Curve](3dnew.png)  
 
 ### 🔍 Anomaly Detection Visualization  
