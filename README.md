@@ -77,7 +77,7 @@ The model consists of three key components:
 🔹 **One-Class SVM** – Classifies normal vs. abnormal network behavior  
 🔹 **Deep Q-Network (DQN)** – Reinforcement Learning for adaptive security  
 
-![Confusion Matrix](FLOW.png)  
+![Confusion Matrix](FLOW.jpg)  
 
 ---
 
