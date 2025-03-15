@@ -113,8 +113,7 @@ The model consists of three key components:
 ### 🔍 Anomaly Detection Visualization  
 ![Anomaly Detection](DISTRIBUTION.png)  
 
-📌 **Replace the above placeholders with actual results and images after running the model.**  
-
+ 
 ---
 
 ## 📂 Dataset  
