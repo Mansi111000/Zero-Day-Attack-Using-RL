@@ -42,11 +42,11 @@ Make sure you have **Python 3.8+** installed. Follow these steps to set up the p
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-repo/zero-day-attack-detection.git
+git clone https://github.com/your-repo/Zero-Day-Attack-Using-RL.git
 cd zero-day-attack-detection
 
 # Install dependencies
-pip install -r requirements.txt
+pip install numpy pandas scikit-learn matplotlib seaborn tensorflow torch kaggle
 ```
 
 ---
