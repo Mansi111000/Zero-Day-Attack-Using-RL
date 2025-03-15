@@ -105,13 +105,13 @@ The model consists of three key components:
 📌 **Performance Gain over Baseline:** *X.XX%*  
 
 ### 🔍 Confusion Matrix  
-![Confusion Matrix](results/confusion_matrix.png)  
+![Confusion Matrix](s2.png)  
 
 ### 🔍 ROC Curve  
-![ROC Curve](results/roc_curve.png)  
+![ROC Curve](3dnew.png)  
 
 ### 🔍 Anomaly Detection Visualization  
-![Anomaly Detection](results/anomaly_visualization.png)  
+![Anomaly Detection](newplot(1).png)  
 
 📌 **Replace the above placeholders with actual results and images after running the model.**  
 
@@ -135,7 +135,6 @@ The model is trained on the **CICIDS2017 dataset**, which includes **benign traf
 
 Contributions are always welcome! 🚀  
 
----
 
 
 
