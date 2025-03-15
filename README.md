@@ -111,7 +111,7 @@ The model consists of three key components:
 ![ROC Curve](3dnew.png)  
 
 ### 🔍 Anomaly Detection Visualization  
-![Anomaly Detection](newplot (1).png)  
+![Anomaly Detection](DISTRIBUTION.png)  
 
 📌 **Replace the above placeholders with actual results and images after running the model.**  
 
@@ -144,4 +144,4 @@ Contributions are always welcome! 🚀
 
 ---
 
-This README follows a **powerful, structured approach** while making it **engaging and visually appealing** with emojis. Let me know if you need any modifications! 🚀
+
