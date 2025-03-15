@@ -111,7 +111,7 @@ The model consists of three key components:
 ![ROC Curve](3dnew.png)  
 
 ### 🔍 Anomaly Detection Visualization  
-![Anomaly Detection](newplot(1).png)  
+![Anomaly Detection](newplot (1).png)  
 
 📌 **Replace the above placeholders with actual results and images after running the model.**  
 
